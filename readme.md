@@ -8,7 +8,7 @@ Currently functional workflow tasks:
 
 Generate
 
-Currently functional Generate Targets:
+Currently functional Bones Generator Targets:
 
 README.md
 
