@@ -1,6 +1,16 @@
 
 
-# Copilot Workflows
+# Copilot Workflows - WIP
+
+This is a work in progress.
+
+Currently functional workflow tasks:
+
+Generate
+
+Currently functional Generate Targets:
+
+README.md
 
 This project demonstrates how to use Copilot-driven workflows to automate project documentation and file generation. The workflow system can generate standard documentation files, API docs, diagrams, and guides for your project.
 
