@@ -33,6 +33,7 @@ workflows project document
 ```
 
 This will generate all standard documentation files for your project, including:
+
 - README.md
 - CHANGELOG.md
 - CONTRIBUTING.md
@@ -44,7 +45,8 @@ This will generate all standard documentation files for your project, including:
 - Developer guides
 
 ## Command Tree
-```
+
+```tree
    workflows
      |
      |+-- project
@@ -52,11 +54,12 @@ This will generate all standard documentation files for your project, including:
      |       |+-- document
      |       |+--
      |+--
-
-
 ```
+
 ## Contributing
+
 Contributions are welcome! Please see the `CONTRIBUTING.md` file for guidelines.
 
 ## License
+
 This project is licensed under the MIT License. See the `LICENSE` file for details.
