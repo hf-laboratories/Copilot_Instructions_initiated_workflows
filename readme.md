@@ -43,6 +43,18 @@ This will generate all standard documentation files for your project, including:
 - User guides
 - Developer guides
 
+## Command Tree
+```
+   workflows
+     |
+     |+-- project
+     |       |
+     |       |+-- document
+     |       |+--
+     |+--
+
+
+```
 ## Contributing
 Contributions are welcome! Please see the `CONTRIBUTING.md` file for guidelines.
 
