@@ -4,7 +4,7 @@ function Populate-Skeleton {
         [Parameter(Mandatory = $true)]
         [string]$docfile
     )
-    $skeletonPath = Join-Path -Path (Join-Path -Path $PSScriptRoot -ChildPath 'skeleton/docs') -ChildPath ("$docfile.skeleton.xaml")
+    $skeletonPath = Join-Path -Path (Join-Path -Path $PSScriptRoot -ChildPath 'skeleton/docs') -ChildPath ("$docfile.skeleton")
     if (Test-Path $skeletonPath) {
         $targetPath = Join-Path -Path $PSScriptRoot -ChildPath $docfile
         Copy-Item -Path $skeletonPath -Destination $targetPath -Force
