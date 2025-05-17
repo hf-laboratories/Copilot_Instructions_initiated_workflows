@@ -3,10 +3,25 @@
   <Title>Project Title</Title>
   <Description>This is a skeleton for the project README.md file. Replace this with your project details.</Description>
   <Sections>
-    <Section>Introduction</Section>
-    <Section>Installation</Section>
-    <Section>Usage</Section>
-    <Section>Contributing</Section>
-    <Section>License</Section>
+    <Section>
+      <Title>Introduction</Title>
+      <Description>Overview of the project, its purpose, and main features.</Description>
+    </Section>
+    <Section>
+      <Title>Installation</Title>
+      <Description>Step-by-step instructions for installing and setting up the project.</Description>
+    </Section>
+    <Section>
+      <Title>Usage</Title>
+      <Description>Examples and explanations on how to use the project.</Description>
+    </Section>
+    <Section>
+      <Title>Contributing</Title>
+      <Description>Guidelines for contributing to the project.</Description>
+    </Section>
+    <Section>
+      <Title>License</Title>
+      <Description>Information about the project's license.</Description>
+    </Section>
   </Sections>
 </Documentation>

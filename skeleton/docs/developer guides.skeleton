@@ -1,0 +1,23 @@
+<!-- Skeleton for Developer guides documentation -->
+<Documentation>
+  <Title>Developer Guide</Title>
+  <Description>This is a skeleton for the developer guide file. Help developers understand the codebase and development workflow.</Description>
+  <Sections>
+    <Section>
+      <Title>Project Structure</Title>
+      <Description>Explanation of the project's directory and file organization.</Description>
+    </Section>
+    <Section>
+      <Title>Development Workflow</Title>
+      <Description>Recommended process for developing, reviewing, and merging code changes.</Description>
+    </Section>
+    <Section>
+      <Title>Testing</Title>
+      <Description>Instructions for running and writing tests for the project.</Description>
+    </Section>
+    <Section>
+      <Title>Contribution Guidelines</Title>
+      <Description>Rules and best practices for contributing to the project.</Description>
+    </Section>
+  </Sections>
+</Documentation>

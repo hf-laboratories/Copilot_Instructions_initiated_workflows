@@ -1,6 +1,8 @@
 # Populate-Skeleton: Populates a documentation file from a skeleton template
-function Populate-Skeleton {
-    param(
+fu
+nction Populate-Skeleton {
+    param
+    (
         [Parameter(Mandatory = $true)]
         [string]$docfile
     )
@@ -26,14 +28,39 @@ function Invoke-ProjectWorkflow {
         # You can submit a workflow instruction and then here do some action in pwsh
         Pause # to wait until the instruction is run to execute
         Populate-Skeleton -docfile "readme.md"
+        Write-Output "Fill README.md"
         Write-Output "Generate CHANGELOG.md"
+        Pause
+        Populate-Skeleton -docfile "changelog.md"
+        Write-Output "Fill CHANGELOG.md"
         Write-Output "Generate CONTRIBUTING.md"
+        Pause
+        Populate-Skeleton -docfile "CONTRIBUTING.md"
+        Write-Output "Fill CONTRIBUTING.md"
         Write-Output "Generate LICENSE"
+        Pause
+        Populate-Skeleton -docfile "LICENSE"
+        Write-Output "Fill LICENSE"
         Write-Output "Generate API documentation"
+        Pause
+        Populate-Skeleton -docfile "api documentation"
+        Write-Output "Fill API documentation"
         Write-Output "Generate Architecture diagrams"
+        Pause
+        Populate-Skeleton -docfile "architecture diagrams"
+        Write-Output "Fill Architecture diagrams"
         Write-Output "Generate Deployment diagrams"
+        Pause
+        Populate-Skeleton -docfile "deployment diagrams"
+        Write-Output "Fill Deployment diagrams"
         Write-Output "Generate User guides"
+        Pause
+        Populate-Skeleton -docfile "user guides"
+        Write-Output "Fill User guides"
         Write-Output "Generate Developer guides"
+        Pause
+        Populate-Skeleton -docfile "developer guides"
+        Write-Output "Fill Developer guides"
         Write-Output "End Workflow"
     } else {
         Write-Output "Unknown parameter: $Param"

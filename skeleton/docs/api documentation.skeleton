@@ -1,0 +1,23 @@
+<!-- Skeleton for API documentation -->
+<Documentation>
+  <Title>API Documentation</Title>
+  <Description>This is a skeleton for the API documentation file. Document your API endpoints, request/response formats, and usage examples here.</Description>
+  <Sections>
+    <Section>
+      <Title>Overview</Title>
+      <Description>General description of the API and its purpose.</Description>
+    </Section>
+    <Section>
+      <Title>Endpoints</Title>
+      <Description>List and describe all available API endpoints, including methods and paths.</Description>
+    </Section>
+    <Section>
+      <Title>Authentication</Title>
+      <Description>Information on how to authenticate and authorize API requests.</Description>
+    </Section>
+    <Section>
+      <Title>Examples</Title>
+      <Description>Sample requests and responses for common API operations.</Description>
+    </Section>
+  </Sections>
+</Documentation>

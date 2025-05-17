@@ -1,0 +1,19 @@
+<!-- Skeleton for User guides documentation -->
+<Documentation>
+  <Title>User Guide</Title>
+  <Description>This is a skeleton for the user guide file. Help end users understand how to use the application.</Description>
+  <Sections>
+    <Section>
+      <Title>Getting Started</Title>
+      <Description>Instructions for installing, configuring, and launching the application for the first time.</Description>
+    </Section>
+    <Section>
+      <Title>Features</Title>
+      <Description>Overview of the main features and capabilities available to end users.</Description>
+    </Section>
+    <Section>
+      <Title>Troubleshooting</Title>
+      <Description>Common issues, error messages, and solutions to help users resolve problems.</Description>
+    </Section>
+  </Sections>
+</Documentation>

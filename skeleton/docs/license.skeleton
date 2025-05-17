@@ -1,0 +1,23 @@
+<!-- Skeleton for LICENSE documentation -->
+<Documentation>
+  <Title>License</Title>
+  <Description>This is a skeleton for the LICENSE file. Specify the license type and terms for your project.</Description>
+  <Sections>
+    <Section>
+      <Title>MIT License</Title>
+      <Description>Details of the MIT License applied to this project.</Description>
+    </Section>
+    <Section>
+      <Title>Copyright</Title>
+      <Description>Statement of copyright ownership for the project.</Description>
+    </Section>
+    <Section>
+      <Title>Permission Notice</Title>
+      <Description>Explanation of the permissions granted by the license.</Description>
+    </Section>
+    <Section>
+      <Title>Disclaimer</Title>
+      <Description>Disclaimer of warranties and liabilities under the license.</Description>
+    </Section>
+  </Sections>
+</Documentation>

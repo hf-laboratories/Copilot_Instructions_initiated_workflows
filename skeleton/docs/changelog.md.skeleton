@@ -1,0 +1,15 @@
+<!-- Skeleton for CHANGELOG.md documentation -->
+<Documentation>
+  <Title>Changelog</Title>
+  <Description>This is a skeleton for the project CHANGELOG.md file. List all notable changes to the project here.</Description>
+  <Sections>
+    <Section>
+      <Title>Unreleased</Title>
+      <Description>List of changes that are planned or in progress but not yet released.</Description>
+    </Section>
+    <Section>
+      <Title>Version History</Title>
+      <Description>Chronological record of all released versions and their notable changes.</Description>
+    </Section>
+  </Sections>
+</Documentation>
