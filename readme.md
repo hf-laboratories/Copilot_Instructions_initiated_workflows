@@ -72,3 +72,12 @@ Contributions are welcome! Please see the `CONTRIBUTING.md` file for guidelines.
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Trademarks and non-affiliation
+
+Product and company names in this repository belong to their owners and are used only to say what this project works with. HF Laboratories is not affiliated with, endorsed by, or sponsored by any of them.
+
+- Microsoft and PowerShell are trademarks or registered trademarks of Microsoft Corporation.
+- GitHub Copilot is a trademark or registered trademark of GitHub, Inc.
+
+See [hflabs.dev/legal/trademarks](https://hflabs.dev/legal/trademarks) for the full list.
